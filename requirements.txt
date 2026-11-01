@@ -1,0 +1,5 @@
+torch>=2.6
+torchvision
+gradio>=6.31,<7
+pillow
+numpy

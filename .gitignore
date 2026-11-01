@@ -1,0 +1,10 @@
+# MNIST dataset (downloaded by train.py)
+data/
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+env/
