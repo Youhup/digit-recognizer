@@ -1,8 +1,7 @@
 # Handwritten Digit Recognizer
 
 Draw a digit with your mouse and a small PyTorch CNN, trained on MNIST, predicts it in a Gradio web app.
-
-There is no hosted demo; the app runs locally (see [Run it locally](#run-it-locally)).
+the app runs locally (see [Run it locally](#run-it-locally)).
 
 <!-- Replace this line with a screenshot or GIF of the app -->
 *Screenshot coming soon.*
